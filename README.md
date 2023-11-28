@@ -50,7 +50,8 @@
 
 ### 6. Links:
 - API DEPLOYADA: https://pi-mlops-7yi5.onrender.com/docs
-- VIDEO PRESENTACIÓN: https://youtu.be/j8PKHDoxH8E
+- VIDEO PRESENTACIÓN: [Ver video en YouTube](https://youtu.be/j8PKHDoxH8E)
+
 
 
 
